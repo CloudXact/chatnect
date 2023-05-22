@@ -21,7 +21,7 @@ To get started with Chatnect, follow these steps:
 1. Clone the repository: `git clone https://github.com/cloudxact/chatnect.git`
 2. Install the necessary dependencies: `npm install`
 3. Configure the application according to your requirements.
-4. Run the application: `npm start`
+4. Run the application: `npm start dev`
 5. Access Chatnect via your preferred web browser.
 
 For more detailed instructions, please refer to the [installation guide](link_to_installation_guide).
